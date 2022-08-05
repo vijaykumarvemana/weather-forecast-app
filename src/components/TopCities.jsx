@@ -23,7 +23,7 @@ function TopCities() {
       name: "Tokyo",
     },
     {
-      id: 1,
+      id: 6,
       name: "Toronto",
     },
   ];

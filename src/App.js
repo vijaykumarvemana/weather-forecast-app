@@ -1,5 +1,7 @@
 import "./App.css";
 import Search from "./components/Search";
+import TemperatureDetails from "./components/TemperatureDetails";
+import TimeAndCity from "./components/TimeAndCity";
 import TopCities from "./components/TopCities";
 
 function App() {
@@ -10,6 +12,9 @@ function App() {
       </h1>
       <TopCities />
       <Search />
+      <TimeAndCity />
+      <TemperatureDetails />
+
     </div>
   );
 }
